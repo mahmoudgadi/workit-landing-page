@@ -1,0 +1,20 @@
+:root {
+  --dark-purple: #24053e;
+  --davys-grey: #584d62;
+  --eucalyptus: #44ffa1;
+  --ghost-white: #fcf8ff;
+  --white: #fff;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "fraunces";
+  src: url("../fonts/fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf");
+}
+@font-face {
+  font-family: "manrope";
+  src: url("../fonts/manrope/Manrope-VariableFont_wght.ttf");
+}
